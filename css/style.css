@@ -270,3 +270,7 @@ h3 {
   background-color: var(--secundarioOscuro);
   cursor: pointer;
 }
+
+.formulario__option {
+  color: var(--primarioOscuro);
+}
